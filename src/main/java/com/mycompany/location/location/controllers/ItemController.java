@@ -1,4 +1,4 @@
-package com.location.controllers;
+package com.mycompany.location.location.controllers;
 
 import com.location.models.Item;
 import com.location.services.ItemService;
