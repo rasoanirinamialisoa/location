@@ -1,4 +1,3 @@
-// src/routes/rentalRoutes.ts
 import { Router } from "express";
 import { getItems, rentItem, getItemRentals } from "../controllers/rentalController";
 
